@@ -1,0 +1,12 @@
+{
+  "versionCode": 5,
+  "versionName": "2.0",
+  "apkUrl": "https://raw.githubusercontent.com/Norbert-web/bluebird-releases/main/assets/bluebird/bluebird-v1.2.apk",
+  "changelog": [
+    "Improved animations",
+    "Faster start menu",
+    "Better memory management"
+  ],
+  "forceUpdate": false,
+  "apkSize": "26 MB"
+}
