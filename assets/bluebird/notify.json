@@ -25,7 +25,7 @@
       "icon": "update",
       "action": {
         "label": "Learn More",
-        "url": "https://github.com/BluebirdSoftware/bluebird-launcher/releases"
+        "url": "https://norbert-web.github.io/bluebird-releases/"
       },
       "badge_color": "#107C10"
     }
