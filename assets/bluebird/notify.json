@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "notifications": [
+    {
+      "id": "bluebird-2025-001",
+      "type": "announcement",
+      "priority": "normal",
+      "title": "Welcome to Bluebird! 🎉",
+      "body": "Thanks for using Bluebird Launcher. We're constantly improving your experience. Stay tuned for updates!",
+      "timestamp": "2025-01-01T00:00:00Z",
+      "expires_at": null,
+      "icon": "bluebird",
+      "action": null,
+      "badge_color": "#0078D4"
+    },
+    {
+      "id": "bluebird-2025-002",
+      "type": "update",
+      "priority": "high",
+      "title": "New Features Available",
+      "body": "Action Center has been upgraded with text scaling, DND, and smarter notifications. Pull down to explore!",
+      "timestamp": "2025-06-01T00:00:00Z",
+      "expires_at": "2025-12-31T23:59:59Z",
+      "icon": "update",
+      "action": {
+        "label": "Learn More",
+        "url": "https://github.com/BluebirdSoftware/bluebird-launcher/releases"
+      },
+      "badge_color": "#107C10"
+    }
+  ]
+}
