@@ -6,11 +6,7 @@
       "type": "announcement",
       "priority": "normal",
       "title": "Welcome to Bluebird! 🎉",
-      "body": "Thanks for using Bluebird. I would like to inform you that updates and 
-      further developments will pause
-      a little bit as we are going 
-      back to school, probably 3 months off. But that's not the end,
-      we'll be with a lot more in mind, stay tuned!, Lamn Nobert",
+      "body": "Thanks for using Bluebird. We are here to give the best experience ever! Stay tuned, if you encounter any bug, or would like to request a feature or talk about anything else email us at trebronwayne@gmail.com" ,
       "timestamp": "2025-01-01T00:00:00Z",
       "expires_at": null,
       "icon": "bluebird",
@@ -31,6 +27,21 @@
         "url": "https://norbert-web.github.io/bluebird-releases/"
       },
       "badge_color": "#107C10"
+    }, 
+        {
+      "id": "bluebird-2025-001",
+      "type": "announcement",
+      "priority": "normal",
+      "title": "Apologies ",
+      "body": "I would like to inform you that updates and 
+      further developments will pause as we are going 
+      back to school, probably 3 months off. But that's not the end,
+      we'll be with a lot more in mind, stay tuned!, Lamn Nobert",
+      "timestamp": "2025-01-01T00:00:00Z",
+      "expires_at": null,
+      "icon": "bluebird",
+      "action": null,
+      "badge_color": "#0078D4"
     }
   ]
 }
