@@ -1,12 +1,13 @@
 {
-  "versionCode": 5,
-  "versionName": "2.0",
-  "apkUrl": "https://raw.githubusercontent.com/Norbert-web/bluebird-releases/main/assets/bluebird/bluebird-v1.2.apk",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://norbert-web.github.io/bluebird-releases/",
   "changelog": [
-    "Improved animations",
-    "Faster start menu",
-    "Better memory management"
+    "Added the official Bluebird Software Team notification system",
+    "Expanded media player functionality with new features, Improved start menu capabilities and interactions",
+    "More polished interface, Stability & Performance "
   ],
   "forceUpdate": false,
-  "apkSize": "26 MB"
+  "apkSize": "19 MB"
 }
+
