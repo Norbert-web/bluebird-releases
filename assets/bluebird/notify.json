@@ -2,39 +2,39 @@
   "schema_version": 1,
   "notifications": [
     {
-      "id": "bluebird-2025-001",
+      "id": "bluebird-2026-008",
+      "type": "update",
+      "priority": "high",
+      "title": "Bluebird v1.8 Is Here! 🚀",
+      "body": "The long-awaited Bluebird v1.8 is officially released! Explore new apps, the Bluebird App Store, web app installation, live wallpapers, improved media controls, Word Impress, and much more. Update through Settings or visit bluebirduganda.dpdns.org.",
+      "timestamp": "2026-08-24T00:00:00Z",
+      "expires_at": null,
+      "icon": "update",
+      "action": {
+        "label": "Get v1.8",
+        "url": "https://bluebirduganda.dpdns.org"
+      },
+      "badge_color": "#107C10"
+    },
+    {
+      "id": "bluebird-2026-009",
       "type": "announcement",
       "priority": "normal",
-      "title": "Welcome to Bluebird! 🎉",
-      "body": "Thanks for using Bluebird. We are here to give the best experience ever! Stay tuned! Tips: Email trebronwayne@gmail.com for bug report or feature request" ,
-      "timestamp": "2025-01-01T00:00:00Z",
+      "title": "Bluebird Is Back! 💙",
+      "body": "After our development pause, the Bluebird team is back at work. Our team is working hard to bring better productivity, new ideas, and an even better Bluebird experience. Thanks for staying with us!",
+      "timestamp": "2026-08-24T00:05:00Z",
       "expires_at": null,
       "icon": "bluebird",
       "action": null,
       "badge_color": "#0078D4"
     },
     {
-      "id": "bluebird-2025-002",
-      "type": "update",
-      "priority": "high",
-      "title": "New Features Bluebird v1.6",
-      "body": "Action Center has been upgraded with text scaling, DND, and smarter notifications. Pull down to explore!",
-      "timestamp": "2025-06-01T00:00:00Z",
-      "expires_at": "2025-12-31T23:59:59Z",
-      "icon": "update",
-      "action": {
-        "label": "Learn More",
-        "url": "https://norbert-web.github.io/bluebird-releases/"
-      },
-      "badge_color": "#107C10"
-    }, 
-        {
-      "id": "bluebird-2025-001",
+      "id": "bluebird-2026-010",
       "type": "announcement",
       "priority": "normal",
-      "title": "Apologies, Lamn-Nobert@Bluebird ",
-      "body": "Updates and further developments will pause as we are going back to school.But that's not the end, we'll be back with a lot more in mind, stay tuned!",
-      "timestamp": "2025-01-01T00:00:00Z",
+      "title": "💡 Bluebird News of the Day",
+      "body": "Great software is built one improvement at a time. Today, we're celebrating a new release and a fresh start for Bluebird. More is on the way!",
+      "timestamp": "2026-08-24T00:10:00Z",
       "expires_at": null,
       "icon": "bluebird",
       "action": null,

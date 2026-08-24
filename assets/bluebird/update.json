@@ -1,13 +1,18 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://norbert-web.github.io/bluebird-releases/",
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/Norbert-web/Bluebird/releases/download/v1.8/Bluebird-v1.8.apk",
   "changelog": [
-    "Added the official Bluebird Software Team notification system",
-    "Expanded media player functionality with new features, Improved start menu capabilities and interactions",
-    "More polished interface, Stability & Performance "
+    "Introduced the Bluebird App Store with support for installing custom HTML, CSS, and JavaScript apps.",
+    "Added web app installation directly from a URL.",
+    "Added live wallpapers, desktop animations, and refresh effects.",
+    "Introduced Bluebird Word Impress, a new word-processing application.",
+    "Added toast notifications and improved system notification features.",
+    "Enhanced the media player with improved controls, lock-screen controls, and background playback persistence.",
+    "Fixed multiple File Explorer and desktop integration issues and unified file operations across both environments.",
+    "Improved app stability, performance, responsiveness, and overall system reliability.",
+    "Polished the Bluebird interface and improved the overall user experience."
   ],
   "forceUpdate": false,
-  "apkSize": "19 MB"
+  "apkSize": "23 MB"
 }
-
