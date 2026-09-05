@@ -2,43 +2,58 @@
   "schema_version": 1,
   "notifications": [
     {
-      "id": "bluebird-2026-008",
+      "id": "bluebird-2026-011",
       "type": "update",
       "priority": "high",
-      "title": "Bluebird v1.8 Is Here! 🚀",
-      "body": "The long-awaited Bluebird v1.8 is officially released! Explore new apps, the Bluebird App Store, web app installation, live wallpapers, improved media controls, Word Impress, and much more. Update through Settings or visit bluebirduganda.dpdns.org.",
-      "timestamp": "2026-08-24T00:00:00Z",
+      "title": "Bluebird v2.0 — The Beginning of Beauty ✨",
+      "body": "The most awaited Bluebird release is here! v2.0 brings a complete transformation with Fluent System Icons, Mobile Mode, a VS Code-inspired Text Editor, the new BPK app system, new built-in apps, major UI improvements, and much more. Update through Settings or visit bluebirduganda.dpdns.org.",
+      "timestamp": "2026-09-05T00:00:00Z",
       "expires_at": null,
       "icon": "update",
       "action": {
-        "label": "Get v1.8",
-        "url": "https://bluebirduganda.dpdns.org"
+        "label": "Get v2.0",
+        "url": "https://bluebirduganda.dpdns.org/bluebird-os"
       },
       "badge_color": "#107C10"
     },
     {
-      "id": "bluebird-2026-009",
+      "id": "bluebird-2026-012",
       "type": "announcement",
       "priority": "normal",
-      "title": "Bluebird Is Back! 💙",
-      "body": "After our development pause, the Bluebird team is back at work. Our team is working hard to bring better productivity, new ideas, and an even better Bluebird experience. Thanks for staying with us!",
-      "timestamp": "2026-08-24T00:05:00Z",
+      "title": "A New Bluebird Begins",
+      "body": "Bluebird v2.0 is more than an update — it is a complete transformation. Nearly every part of Bluebird has been revisited for a more beautiful, capable, and efficient experience.",
+      "timestamp": "2026-09-05T00:05:00Z",
       "expires_at": null,
       "icon": "bluebird",
       "action": null,
       "badge_color": "#0078D4"
     },
     {
-      "id": "bluebird-2026-010",
+      "id": "bluebird-2026-013",
       "type": "announcement",
       "priority": "normal",
-      "title": "💡 Bluebird News of the Day",
-      "body": "Great software is built one improvement at a time. Today, we're celebrating a new release and a fresh start for Bluebird. More is on the way!",
-      "timestamp": "2026-08-24T00:10:00Z",
+      "title": "7.5 MB. A Lot More Inside. ⚡",
+      "body": "Bluebird v2.0 introduces R8/ProGuard optimization and resource shrinking, reducing the release APK from approximately 24 MB in v1.9 to just 7.5 MB — while retaining the major Bluebird experience.",
+      "timestamp": "2026-09-05T00:10:00Z",
       "expires_at": null,
       "icon": "bluebird",
       "action": null,
       "badge_color": "#0078D4"
-    }
+    }, 
+    {
+  "id": "bluebird-2026-014",
+  "type": "announcement",
+  "priority": "normal",
+  "title": "Build Your Own Web Apps in Bluebird 🌐",
+  "body": "Want to run your own web app inside Bluebird? With the new BPK system, you can build and package custom applications for the Bluebird environment. Follow the Bluebird BPK Documentation to learn how to get started.",
+  "timestamp": "2026-09-05T00:15:00Z",
+  "expires_at": null,
+  "icon": "bluebird",
+  "action": {
+    "label": "BPK Documentation",
+    "url": "https://github.com/Norbert-web/Bluebird/tree/master/Bluebird%20_BPK_%20Documentation "
+  },
+  "badge_color": "#0078D4"
+}
   ]
 }

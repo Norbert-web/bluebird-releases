@@ -1,18 +1,21 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/Norbert-web/Bluebird/releases/download/v1.8/Bluebird-v1.8.apk",
+  "versionCode": 11,
+  "versionName": "2.0",
+  "apkUrl": "https://github.com/Norbert-web/Bluebird/releases/download/v2.0/Bluebird-v2.0.apk",
   "changelog": [
-    "Introduced the Bluebird App Store with support for installing custom HTML, CSS, and JavaScript apps.",
-    "Added web app installation directly from a URL.",
-    "Added live wallpapers, desktop animations, and refresh effects.",
-    "Introduced Bluebird Word Impress, a new word-processing application.",
-    "Added toast notifications and improved system notification features.",
-    "Enhanced the media player with improved controls, lock-screen controls, and background playback persistence.",
-    "Fixed multiple File Explorer and desktop integration issues and unified file operations across both environments.",
-    "Improved app stability, performance, responsiveness, and overall system reliability.",
-    "Polished the Bluebird interface and improved the overall user experience."
+    "Major Bluebird transformation with redesigned and polished system experience.",
+    "Replaced Material Icons with Microsoft's Fluent System Icons.",
+    "Added Mobile Mode to the Start Menu for phone-sized screens.",
+    "Added custom XML icons for built-in applications.",
+    "Rebuilt the Text Editor into a VS Code-inspired coding experience.",
+    "Introduced the new Windows-style BPK application installation and lifecycle system.",
+    "Added BPK installation, uninstallation, reinstallation, Program Manager, and Windows-style installer.",
+    "Added Bluebird Notes and Bluebird Tasks as BPK applications.",
+    "Improved application identity across Desktop, File Explorer, Start Menu, Taskbar, and windows.",
+    "Fixed numerous bugs, pin persistence issues, routing issues, and system integration problems.",
+    "Introduced R8/ProGuard minification and resource shrinking for a major performance and size optimization.",
+    "Reduced the release APK from approximately 24 MB in v1.9 to 7.5 MB in v2.0."
   ],
   "forceUpdate": false,
-  "apkSize": "23 MB"
+  "apkSize": "7.5 MB"
 }
